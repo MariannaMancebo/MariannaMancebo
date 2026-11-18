@@ -1,10 +1,10 @@
 # Hola, soy Marianna 👋
 
-Soy ingeniera ambiental de formación y recientemente terminé un programa de análisis de datos, donde he trabajado con Python, SQL, estadística y Power BI.
+Soy egresada del programa Data Analyst de TripleTen, con proyectos académicos en Python, SQL, estadística y Power BI. Trabajo con limpieza de datos, análisis exploratorio, indicadores de negocio y dashboards para comunicar hallazgos y sus límites.
 
-Mi trayectoria profesional se ha desarrollado principalmente en las artes escénicas, participando durante varios años en producciones de gran formato. Esta experiencia me ha permitido fortalecer habilidades como el trabajo en equipo, la disciplina, la adaptabilidad y la resolución de problemas.
+En este portafolio puedes explorar cómo analicé rentabilidad y conversión en RappiPlus, comparé versiones de una landing page, segmenté clientes de telecomunicaciones y construí un dashboard inmobiliario. Cada repositorio reúne el contexto, el análisis y los entregables disponibles.
 
-Actualmente estoy ampliando mi perfil profesional hacia el análisis de datos, con interés en seguir aprendiendo y aplicar mis conocimientos en proyectos reales.
+También soy ingeniera ambiental. Mi experiencia previa en producciones escénicas incluye colaboración con dirección, producción y equipos técnicos, preparación de funciones y adaptación a cambios. Busco mi primera oportunidad profesional en análisis de datos o BI, preferentemente remota desde México.
 
 ## 🛠️ Herramientas y habilidades
 
@@ -36,13 +36,11 @@ Dashboard desarrollado en Power BI para analizar ingresos, desempeño comercial 
 
 ## About me
 
-I'm an Environmental Engineer with recent training in Data Analytics and a professional background in performing arts.
+I completed TripleTen's Data Analyst program and developed academic projects using Python, SQL, statistics and Power BI. My work covers data cleaning, exploratory analysis, business metrics and dashboards, with clear findings and limitations.
 
-My experience in large-scale stage productions has helped me develop teamwork, adaptability, discipline, and problem-solving skills.
+My portfolio includes profitability and conversion analysis for RappiPlus, a landing-page A/B experiment, descriptive customer segmentation and a real estate dashboard. The repositories provide the context, analysis and available deliverables.
 
-I'm currently expanding my professional path into data analysis, working with Python, SQL, statistics, and Power BI.
-
-I'm interested in continuing to learn, gaining practical experience, and developing my analytical skills.
+I also hold a degree in Environmental Engineering. My previous work in stage productions involved collaborating with direction, production and technical teams, preparing performances and adapting to changes. I am seeking my first professional opportunity in data analytics or BI, preferably remote from Mexico.
 
 **Technical skills:** Python · pandas · NumPy · SQL · Power BI · DAX · Statistical Analysis
 
@@ -50,4 +48,4 @@ I'm interested in continuing to learn, gaining practical experience, and develop
 
 ## 📬 Contacto
 
-[LinkedIn](https://www.linkedin.com/in/mariannamancebo/es)
+[LinkedIn](https://www.linkedin.com/in/mariannamancebo/)
